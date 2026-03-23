@@ -14,13 +14,13 @@ We commit to publishing all reproducible artifacts of this paper, including code
 **CTU-Malware**. Comprising real-world university network traces, this dataset provides continuous PCAP captures rather than isolated samples. 
 This continuity preserves the natural chronological order and concurrency of flows, enabling the reconstruction of temporal-topological structures in multi-flow attacks. 
 We select six malware families (i.e., Dridex, Emotet, Geodo, Miuref, Zeus, and TrickBot) for D1, and use the remaining traffic for D2 toevaluate unseen malware detection.
-You can download the above dataset via https://www.stratosphereips.org/datasets-malware
+You can download the above dataset via https://www.stratosphereips.org/datasets-malware.
 
 **USTC-TFC2016**. This real-world dataset contains ten categories, each of benign and malware traffic. 
 To facilitate inter-flow analysis, we utilize original timestamps and IP identifiers to re-establish session-based context, grouping logical interactions into local subgraphs. 
 We construct D3 from malware and D4 from benign traffic.
 D4 serves as a noisy testbed to evaluate false positives in simulated real-world network scenarios.
-You can download the above dataset via https://github.com/davidyslu/USTC-TFC2016
+You can download the above dataset via https://github.com/davidyslu/USTC-TFC2016.
 
 ---
 ## Supported Environments
