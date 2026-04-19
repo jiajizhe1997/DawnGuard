@@ -6,7 +6,7 @@ which has been submitted to IEEE TIFS.
 
 ---
 ## Code
-We commit to publishing all reproducible artifacts of this paper, including code, configuration files and data, on GitHub upon acceptance of the paper.
+We commit to publishing all reproducible artifacts of this paper, including code, configuration files and data, on GitHub upon acceptance of the paper. To ensure high code quality and enhance overall readability, we are currently reorganizing and optimizing our code. The complete reproducible artifacts will be made publicly available here in the near future.
 
 ---
 ## Dataset
